@@ -19,7 +19,7 @@ python ocr.py
 会生成如下所示的文本提取图片,生成的图片和JSON文件保存在output_ocr文件夹中
 
 #### 效果展示
-![table-pic-for-ocr](https://raw.githubusercontent.com/myhub/tr/master/imgs/id_card.jpeg)<br>
-![color_pil](https://github.com/Deeachain/OCR/blob/master/ocr_output/color_pil.png)<br>
+![table-pic-for-ocr](https://raw.githubusercontent.com/myhub/tr/master/imgs/id_card.jpeg)
+![color_pil](https://github.com/Deeachain/OCR/blob/master/ocr_output/color_pil.png)
 ![blank_pil](https://github.com/Deeachain/OCR/blob/master/ocr_output/blank_pil.png)
 
