@@ -1,6 +1,6 @@
 # Text Recognition 
 
-![引用开源项目]("https://github.com/myhub/tr")
+![引用开源项目](https://github.com/myhub/tr)
 #### Requirements
 <pre>pip install numpy Pillow opencv-python
 </pre>
